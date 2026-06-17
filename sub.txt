@@ -1,3 +1,0 @@
-hysteria2://free:free@hy2.v2ray.site:443?insecure=1&sni=google.com#Hy2-Speed-1
-hysteria2://free:free@hy2-sg.v2ray.site:443?insecure=1&sni=cloudflare.com#Hy2-Speed-2
-vless://96cb88b1-3e4b-4c4f-9e73-b3c1ee12efbc@104.18.2.1:80?encryption=none&security=none&type=ws&host=sg1.v2ray.site&path=%2Fv2ray#Vless-WS-3
