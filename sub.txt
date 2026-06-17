@@ -1,1 +1,0 @@
-vless://b496734c-6d60-498c-8515-373f784e1b40@104.18.2.1:80?encryption=none&security=none&type=ws&host=sg1.v2ray.site&path=%2Fv2ray#Free-Node
