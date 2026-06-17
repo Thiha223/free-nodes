@@ -1,6 +1,6 @@
 import requests
 
-# Config များ ဆွဲယူမည့် Free GitHub Source များ
+# လမ်းကြောင်းအမှန်ဖြစ်သော Free V2Ray Source Links များ
 SOURCES = [
     "https://githubusercontent.com",
     "https://githubusercontent.com",
@@ -22,7 +22,7 @@ def main():
         except Exception as e:
             print(f"Error fetching {url}: {e}")
             
-    # အများဆုံး Config အခု ၅၀ သာ ကန့်သတ်သိမ်းဆည်းခြင်း (Hiddify လေးမသွားစေရန်)
+    # အများဆုံး Config အခု ၅၀ သာ ကန့်သတ်သိမ်းဆည်းခြင်း
     limited_configs = list(unique_configs)[:50]
     
     # sub.txt ဖိုင်ထဲသို့ ပြန်လည်ရေးသားခြင်း
